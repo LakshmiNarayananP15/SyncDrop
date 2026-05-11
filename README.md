@@ -1,4 +1,6 @@
 <div align="center">
+  <img width="100%" alt="SyncDrop Banner" src="./banner.svg" />
+  <br/>
   <h1>🚀 SyncDrop</h1>
   <p><b>Lightning-fast, premium local network file transfer from Mobile to PC.</b></p>
 </div>

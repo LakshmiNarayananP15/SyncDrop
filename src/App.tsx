@@ -206,9 +206,7 @@ function MobileUploader() {
     >
       <div className="flex items-center justify-between mb-8 h-16 border-b border-white/5 bg-white/5 backdrop-blur-md z-10 -mx-4 -mt-4 px-8 sm:-mx-6 sm:-mt-6">
         <div className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-            <Smartphone className="w-5 h-5 text-white" />
-          </div>
+          <img src="/syncdrop-logo.svg" alt="SyncDrop Logo" className="w-8 h-8 drop-shadow-md rounded-xl" />
           <h1 className="text-xl font-bold tracking-tight text-slate-100 flex items-center gap-2">
             SyncDrop
           </h1>
@@ -442,10 +440,8 @@ function DesktopDashboard() {
       
       <header className="absolute top-0 left-0 right-0 h-16 w-full px-8 flex items-center justify-between border-b border-white/5 bg-white/5 backdrop-blur-md z-10">
         <div className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-            <Monitor className="w-5 h-5 text-white" />
-          </div>
-          <h1 className="text-xl font-bold tracking-tight text-white">SyncDrop</h1>
+          <img src="/syncdrop-logo.svg" alt="SyncDrop Logo" className="w-9 h-9 drop-shadow-md rounded-[14px]" />
+          <h1 className="text-2xl font-bold tracking-tight text-white">SyncDrop</h1>
         </div>
         <div className="flex items-center gap-4">
           <div className="px-3 py-1 bg-blue-500/10 rounded-full border border-blue-500/20 text-xs font-mono text-blue-400">
