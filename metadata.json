@@ -1,0 +1,6 @@
+{
+  "name": "SyncDrop",
+  "description": "A local Wi-Fi file transfer tool that seamlessly syncs files between your mobile device and PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
